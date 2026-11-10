@@ -229,9 +229,9 @@ AI/ML Engineer | Python | Machine Learning | NLP | Generative AI
 
 🌐 Connect With Me
 
-- **GitHub** [meezanshaikh18](https://github.com/meezanshaikh18)
-- **Portfolio** [Portfolio](https:/meezan-shaikh-portfolio-meezan-shaikhs-projects-081392b8.vercel.app/)
-- **LinkedIn** [Meezan Shaikh](https://www.linkedin.com/in/meezanshaikh18/)
+- **GitHub:** [meezanshaikh18](https://github.com/meezanshaikh18)
+- **Portfolio:** [Portfolio](https:/meezan-shaikh-portfolio-meezan-shaikhs-projects-081392b8.vercel.app/)
+- **LinkedIn:** [Meezan Shaikh](https://www.linkedin.com/in/meezanshaikh18/)
 
 
 
