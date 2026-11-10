@@ -227,6 +227,14 @@ Through this project, I explored and implemented:
 
 AI/ML Engineer | Python | Machine Learning | NLP | Generative AI
 
+🌐 Connect With Me
+
+[GitHub] (https://github.com/meezanshaikh18)
+
+[Portfolio] (https://meezan-shaikh-portfolio-meezan-shaikhs-projects-081392b8.vercel.app/)
+
+[LinkedIn] (https://www.linkedin.com/in/meezanshaikh18/)
+
 ---
 
 *Developed as a practical Python and NLP learning project to explore text preprocessing, information retrieval, and chatbot development.*
